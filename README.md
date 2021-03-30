@@ -8,6 +8,8 @@ I am a self learnt python programmer
 - ### Get in touch with me
 
 [<img src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png">](https://discord.gg/X7PKtknzHk)
+-
+-[![Kid3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kid3000)](https://github.com/Kid3000/github-readme-stats)
 
 
 
